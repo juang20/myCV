@@ -1,0 +1,157 @@
+body{
+   margin:0px;
+   background-color: #222831;
+   color: #eeeeee;
+   text-align: center;
+   font-family: "Fira Sans", sans-serif;
+}
+
+h2 {
+    color: #00ADB5;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+p {
+    line-height: 1,5%;
+}
+
+a {
+    text-decoration: none;
+    color: #00adb5;
+}
+
+a:hover {
+    color: white;
+}
+
+h3:hover {
+    color: greenyellow;
+;
+}
+
+.wrapper {
+    width: 750px;
+    padding-top: 225px;
+    margin: 0 auto;
+}
+
+.section {
+    margin-bottom: 100px;
+}
+
+/* SECTION PERTAMA */
+
+.intro {
+    text-align: left;
+}
+
+.foto-profil {
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
+
+.btn{
+    background-color: #00ADB5;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+
+
+#attribute {
+    position: absolute;
+    left: 200px;
+    top: 150px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 4.5rem; /* rem = root em */
+    font-family: "Caveat", cursive;
+    display: block;
+}
+
+/* SECTION KEDUA */
+.kiri-skill-img{
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.kanan-skill-img {
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 190px;
+    border-radius: 20px;
+}
+
+.img-keterampilan {
+    width: 60px;
+    height: 60px;
+    margin-right: 30px;
+    padding-left: 120px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img-cisco {
+    width: 60px;
+    height: 35px;
+    margin-right: 30px;
+    padding-left: 120px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* SECTION KETIGA */
+.cta-text {
+    width: 65%;
+    margin: 0 auto 12px auto;
+    
+}
+
+
+.skill-row {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #393e46;
+    padding: 30px 0 20px;
+}
+
+.social-links {
+   
+    margin: 0 12px 20px;
+}
+
+.footer-text{
+    font-size: 14px;
+    margin-top: 30px;
+    padding-block: auto;
+
+}
+
+h1 {
+    margin-top: 20px;
+    width: 500px;
+    margin: 20 auto 20 auto;
+    font-family: 'Caveat', cursive;
+    height: 70px;
+    padding-top: 30px;
+
+}
